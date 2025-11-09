@@ -1,8 +1,8 @@
 /*
-  Super Trunfo de Cidades - Cadastro de Cartas
+  Super Trunfo de Cidades
   Autor: [Bruno Mazini de Almeida]
-  Data: [19/10/2025]
-  Descrição: Programa que cadastra e exibe duas cartas do jogo Super Trunfo com dados de cidades - Desafio: nível novato.
+  Data: [09/11/2025]
+  Descrição: Batalha de Cartas no Super Trunfo
 */
 
 #include <stdio.h>
